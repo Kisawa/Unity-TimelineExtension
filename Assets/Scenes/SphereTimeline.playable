@@ -111,6 +111,7 @@ MonoBehaviour:
   m_FixedDuration: 0
   m_EditorSettings:
     m_Framerate: 60
+    m_ScenePreview: 1
   m_DurationMode: 0
   m_MarkerTrack: {fileID: 2901825286659671296}
 --- !u!114 &320395908661599612
@@ -344,7 +345,7 @@ MonoBehaviour:
   ControlTimingType: 0
   JumpFrame: 180
   JumpLabel: 
-  Condition: 0
+  Condition: 1
   track: {fileID: -5644108654457559362}
   trackBinding: {fileID: 0}
   condition_index: 0
