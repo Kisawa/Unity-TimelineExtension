@@ -90,8 +90,154 @@ MonoBehaviour:
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
     m_DisplayName: TimelineControlClip
+  - m_Version: 1
+    m_Start: 3.45
+    m_ClipIn: 0
+    m_Asset: {fileID: -1691057515556150982}
+    m_Duration: 2.883333333333333
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: -5644108654457559362}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: 0
+    m_BlendOutDuration: 0
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: TimelineControlClip
   m_Markers:
     m_Objects: []
+--- !u!114 &-1691057515556150982
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6308c99bb33e82943ae178e4ea896efa, type: 3}
+  m_Name: TimelineControlClip(Clone)(Clone)
+  m_EditorClassIdentifier: 
+  Marker: 0
+  Label: asd
+  Controller: 1
+  ControlType: 1
+  ControlTimingType: 0
+  JumpFrame: 180
+  JumpLabel: 
+  Condition: 1
+  track: {fileID: -5644108654457559362}
+  trackBinding: {fileID: 0}
+  condition_index: 0
+  float_enum: 0
+  float_val: 0
+  int_enum: 0
+  int_val: 0
+  bool_enum: 1
+  conditionName: condition
+  onEnter:
+    register: 0
+    selectIndex: 1
+    methodName: Enter
+    clipParamIndex: -1
+    otherParamType: 1
+    strVal: asd
+    intVal: 0
+    floatVal: 0
+    boolVal: 0
+    enumTypeName: 
+    enumIndexVal: 0
+  onFrame:
+    register: 0
+    selectIndex: 2
+    methodName: Frame
+    clipParamIndex: -1
+    otherParamType: 2
+    strVal: 
+    intVal: 0
+    floatVal: 0
+    boolVal: 0
+    enumTypeName: 
+    enumIndexVal: 0
+  onTrigger:
+    register: 1
+    selectIndex: 3
+    methodName: Trigger
+    clipParamIndex: 0
+    otherParamType: 4
+    strVal: 
+    intVal: 0
+    floatVal: 0
+    boolVal: 1
+    enumTypeName: 
+    enumIndexVal: 0
+  onPass:
+    register: 0
+    selectIndex: 4
+    methodName: Pass
+    clipParamIndex: -1
+    otherParamType: 5
+    strVal: 
+    intVal: 0
+    floatVal: 0
+    boolVal: 0
+    enumTypeName: UnityEngine.Timeline.testEnum
+    enumIndexVal: 0
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -166,7 +312,7 @@ AnimationClip:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Recorded
-  serializedVersion: 6
+  serializedVersion: 7
   m_Legacy: 0
   m_Compressed: 0
   m_UseHighQualityCurve: 1

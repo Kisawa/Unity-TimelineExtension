@@ -23,7 +23,7 @@ namespace UnityEngine.Timeline
             foreach (var item in GetClips())
             {
                 TimelineControlClip _clip = item.asset as TimelineControlClip;
-                _clip.GetType().GetField("trackBinding", System.Reflection.BindingFlags.NonPublic | System.Reflection.BindingFlags.Instance).SetValue(_clip, director.GetGenericBinding(this) as TimelineController);
+                _clip.GetType().GetField("trackBinding", System.Reflection.BindingFlags.NonPublic | System.Reflection.BindingFlags.Instance).SetValue(_clip, director.GetGenericBinding(this) as MonoBehaviour);
             }
 #endif
         }
