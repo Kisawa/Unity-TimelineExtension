@@ -5,6 +5,7 @@
 ****
 ## Effect Track：
 >You can drag in any prefab to create this track, supports particle/nested timeline playback. It also has a curve controller, you can use this to make a ballistic system.
+
 ![eaf93c8c-7eb6-4ef5-ac93-7762b6239711](https://github.com/Kisawa/Unity-TimelineExtension/assets/71002504/5eecf9b9-37bc-4f41-8c74-ab0a733a5cdd)
 
 instantiation parent:
