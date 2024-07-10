@@ -29,7 +29,7 @@ public class ProxyTest : ProxyControl
     public override void OnProxyUpdate(ProxyMixerBehaviour behaviour)
     {
         Color col = behaviour.GetColorProxy("col");
-        block.SetColor("_BaseColor", col);
+        block.SetColor("_EmissionColor", col);
         _renderer.SetPropertyBlock(block);
     }
 
