@@ -42,5 +42,15 @@ there is the curve controller, enable this button you can make a ballistic syste
 
 ****
 ## Proxy Track：
+>You can create a custom data to let the timeline control, supports float/vector/color/int
 
 ![image](https://github.com/Kisawa/Unity-TimelineExtension/assets/71002504/4318aaba-7115-4444-9f41-4e329a015339)
+
+specify a mono script to fetch custom data, need to inherit 'IPlayableControl' or 'ProxyControl'.  ( remember to mark the script with [ExecuteInEditMode] and For details about how to get custom data, see the ProxyTest )
+
+![image](https://github.com/Kisawa/Unity-TimelineExtension/assets/71002504/7d3cd572-c098-497b-83ab-35426b887430)
+
+![image](https://github.com/Kisawa/Unity-TimelineExtension/assets/71002504/f908f5b5-4a43-4339-876b-1e6cd8f40e42)
+
+
+
