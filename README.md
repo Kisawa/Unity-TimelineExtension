@@ -37,6 +37,7 @@ there is the curve controller, enable this button you can make a ballistic syste
 
 ![c11faf68-8c68-4acc-85bc-374063a52bce](https://github.com/Kisawa/Unity-TimelineExtension/assets/71002504/7d694608-f507-4c09-a6a7-60c2ef17d230)
 
-![6f20f535-60bc-4f64-ba4f-3226a0130631](https://github.com/Kisawa/Unity-TimelineExtension/assets/71002504/5534e308-4882-434b-8b14-ba918b9f1e25)
+![ab46990d-0abb-4020-8966-838d7adb741b](https://github.com/Kisawa/Unity-TimelineExtension/assets/71002504/5e70a7c7-5b0e-473e-b2ee-f261685009af)
+
 
 
