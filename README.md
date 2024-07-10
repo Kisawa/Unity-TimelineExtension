@@ -51,6 +51,8 @@ specify a mono script to fetch custom data, need to inherit 'IPlayableControl' o
 
 ![image](https://github.com/Kisawa/Unity-TimelineExtension/assets/71002504/7d3cd572-c098-497b-83ab-35426b887430)
 
+![e1dc4908-e854-453e-8e66-c94005daf205](https://github.com/Kisawa/Unity-TimelineExtension/assets/71002504/f524fe5b-2e5d-46a5-9165-ae0d2cc34c1b)
+
 ![image](https://github.com/Kisawa/Unity-TimelineExtension/assets/71002504/f908f5b5-4a43-4339-876b-1e6cd8f40e42)
 
 
