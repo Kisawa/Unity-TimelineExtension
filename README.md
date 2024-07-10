@@ -21,7 +21,7 @@ reference coordinate system:
 
 ![199d6ef3-2bf0-49f7-947e-560d220f68c4](https://github.com/Kisawa/Unity-TimelineExtension/assets/71002504/fd78bcef-0561-4dd9-a8e1-7ed7253851bb)
 
-select the generated node:
+select the generated node, default node is playable root gameobjcet:
 
 ![8a132d0a-75b9-40ee-bcf6-4e3d85664fc2](https://github.com/Kisawa/Unity-TimelineExtension/assets/71002504/7f981401-7534-4753-a0bb-14219f1d93dd)
 
@@ -33,9 +33,10 @@ edit transform information: select this clip and switch the scene handle to rect
 
 ![9d82c955-14b8-476a-a5c1-abf9632f9c6b](https://github.com/Kisawa/Unity-TimelineExtension/assets/71002504/b02b6be0-bcbf-4b4c-a833-69fed24cdd6a)
 
-there is the curve controller, enable this button you can make a ballistic system. when selected, curves can be edit in scene
+there is the curve controller, enable this button you can make a ballistic system. when clip selected, curves can be edit in scene
 
 ![c11faf68-8c68-4acc-85bc-374063a52bce](https://github.com/Kisawa/Unity-TimelineExtension/assets/71002504/7d694608-f507-4c09-a6a7-60c2ef17d230)
 
-![9d82c955-14b8-476a-a5c1-abf9632f9c6b](https://github.com/Kisawa/Unity-TimelineExtension/assets/71002504/90ab3fef-c287-4a17-ad29-f9942c961e59)
+![6f20f535-60bc-4f64-ba4f-3226a0130631](https://github.com/Kisawa/Unity-TimelineExtension/assets/71002504/5534e308-4882-434b-8b14-ba918b9f1e25)
+
 
