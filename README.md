@@ -40,4 +40,7 @@ there is the curve controller, enable this button you can make a ballistic syste
 ![ab46990d-0abb-4020-8966-838d7adb741b](https://github.com/Kisawa/Unity-TimelineExtension/assets/71002504/5e70a7c7-5b0e-473e-b2ee-f261685009af)
 
 
+****
+## Proxy Track：
 
+![image](https://github.com/Kisawa/Unity-TimelineExtension/assets/71002504/4318aaba-7115-4444-9f41-4e329a015339)
