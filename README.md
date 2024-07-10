@@ -10,7 +10,8 @@
 
 instantiation parent:
 
-![eaf93c8c-7eb6-4ef5-ac93-7762b6239711](https://github.com/Kisawa/Unity-TimelineExtension/assets/71002504/f0e4d54c-9a86-41a3-abbf-981cc75da6af)
+![0cab34e9-beae-4aaa-a5ea-50dda9a9983e](https://github.com/Kisawa/Unity-TimelineExtension/assets/71002504/db256fea-19fe-4ef6-97f7-b98faa28e014)
+
 
 targets are refer this mono script:
 
